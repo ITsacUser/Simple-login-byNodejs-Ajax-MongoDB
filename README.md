@@ -6,7 +6,7 @@ Bootstrapテンプレートはこちらになります。　https://bbbootstrap.
 
 素人のコードのため、何かございましたらコメントをお願い致します。
 プロジェクトインストール方法：
-npm build
-npm install
+<p>npm build</p>
+<p>npm install</p>
 
 宜しくお願い致します。
